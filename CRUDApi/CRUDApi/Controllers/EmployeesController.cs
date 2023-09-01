@@ -77,7 +77,7 @@ namespace CRUDApi.Controllers
 
             if (employee == null)
             {
-                return NotFound();
+                return NotFound();//shuja
             }
 
             _crudApiDbContext.Employees.Remove(employee);
