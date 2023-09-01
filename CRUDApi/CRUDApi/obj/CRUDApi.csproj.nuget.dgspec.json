@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Angular practise\\CRUD Api\\CRUDApi\\CRUDApi\\CRUDApi.csproj": {}
+    "D:\\GitHub\\Angular-Crud-Api\\CRUDApi\\CRUDApi\\CRUDApi.csproj": {}
   },
   "projects": {
-    "D:\\Angular practise\\CRUD Api\\CRUDApi\\CRUDApi\\CRUDApi.csproj": {
+    "D:\\GitHub\\Angular-Crud-Api\\CRUDApi\\CRUDApi\\CRUDApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Angular practise\\CRUD Api\\CRUDApi\\CRUDApi\\CRUDApi.csproj",
+        "projectUniqueName": "D:\\GitHub\\Angular-Crud-Api\\CRUDApi\\CRUDApi\\CRUDApi.csproj",
         "projectName": "CRUDApi",
-        "projectPath": "D:\\Angular practise\\CRUD Api\\CRUDApi\\CRUDApi\\CRUDApi.csproj",
+        "projectPath": "D:\\GitHub\\Angular-Crud-Api\\CRUDApi\\CRUDApi\\CRUDApi.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Angular practise\\CRUD Api\\CRUDApi\\CRUDApi\\obj\\",
+        "outputPath": "D:\\GitHub\\Angular-Crud-Api\\CRUDApi\\CRUDApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
