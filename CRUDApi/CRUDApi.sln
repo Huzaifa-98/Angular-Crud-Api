@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32002.185
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDApi", "CRUDApi\CRUDApi.csproj", "{B4815E65-66FD-4563-B52D-0B2096DEFAA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4815E65-66FD-4563-B52D-0B2096DEFAA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4815E65-66FD-4563-B52D-0B2096DEFAA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4815E65-66FD-4563-B52D-0B2096DEFAA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4815E65-66FD-4563-B52D-0B2096DEFAA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9E9E52C-7CE6-46CD-B967-73FDAEEE5593}
+	EndGlobalSection
+EndGlobal
