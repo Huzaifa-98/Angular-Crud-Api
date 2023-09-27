@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub\\Angular-Crud-Api\\CRUDApi\\CRUDApi\\CRUDApi.csproj": {}
+    "D:\\Angular-Git\\Angular-Crud-Api\\CRUDApi\\CRUDApi\\CRUDApi.csproj": {}
   },
   "projects": {
-    "D:\\GitHub\\Angular-Crud-Api\\CRUDApi\\CRUDApi\\CRUDApi.csproj": {
+    "D:\\Angular-Git\\Angular-Crud-Api\\CRUDApi\\CRUDApi\\CRUDApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\Angular-Crud-Api\\CRUDApi\\CRUDApi\\CRUDApi.csproj",
+        "projectUniqueName": "D:\\Angular-Git\\Angular-Crud-Api\\CRUDApi\\CRUDApi\\CRUDApi.csproj",
         "projectName": "CRUDApi",
-        "projectPath": "D:\\GitHub\\Angular-Crud-Api\\CRUDApi\\CRUDApi\\CRUDApi.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\Angular-Crud-Api\\CRUDApi\\CRUDApi\\obj\\",
+        "projectPath": "D:\\Angular-Git\\Angular-Crud-Api\\CRUDApi\\CRUDApi\\CRUDApi.csproj",
+        "packagesPath": "C:\\Users\\HomePC\\.nuget\\packages\\",
+        "outputPath": "D:\\Angular-Git\\Angular-Crud-Api\\CRUDApi\\CRUDApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HomePC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,7 +61,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -73,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.121\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
